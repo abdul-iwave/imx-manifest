@@ -32,7 +32,7 @@
      <linkfile src="imx/README" dest="README-IMXBSP"/>
   </project>
 
-  <project remote="iwave" revision="8c99c3e0c751a669098a92482045fbd9b705ca75" name="meta-iwave" path="sources/meta-iwave" >
+  <project remote="iwave" revision="df07d6c87680f0b156afa8935f6206d94eaa7919" name="meta-iwave" path="sources/meta-iwave" >
      <linkfile src="imx/tools/fsl-setup-release.sh" dest="fsl-setup-release.sh"/>
   </project>
 
